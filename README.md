@@ -89,21 +89,40 @@ I am a passionate web application developer with front-end and full-stack develo
     </td>
   </tr>
   <tr>
-
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" /><br>Redux
    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /><br>Bootstrap
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="jest" /><br>Jest
+   </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" /><br>Kafka
+   </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /><br>Css
+   </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /><br>Firebase
-   </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="git" /><br>Git
-   </td>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /><br>Bootstrap
+    </td>
+  </tr>
+  <tr>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
+   </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" /><br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /><br>Git
+   </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="git" /><br>Github
+   </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" /><br>Github Actions
    </td>
   </tr>
 </table>
