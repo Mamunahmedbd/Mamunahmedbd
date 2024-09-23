@@ -38,7 +38,22 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" /><br>Express.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Sass" /><br>Sass
+        <img src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4" width="48" height="48" alt="Fastify" /><br>Fastify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Sass" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django
+    </td>
+
+  </tr>
+    <tr>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
@@ -55,18 +70,7 @@ I am a passionate web application developer with front-end and full-stack develo
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
    </td>
-  </tr>
-    <tr>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
-    </td>
-   <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /><br>Bootstrap
     </td>
     <td align="center" width="96">
