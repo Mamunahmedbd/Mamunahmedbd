@@ -56,22 +56,26 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySql" /><br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" /><br>Postgres
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /><br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" /><br>Supabase
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /><br>Firebase
    </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /><br>Git
+        <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent.png" width="48" height="48" alt="Mariadb" /><br>MariaDB
    </td>
   </tr>
   </tr>
     <tr>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Nginx" /><br>Nginx
+    </td>
+    <tr>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" /><br>Nginx
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
@@ -82,12 +86,6 @@ I am a passionate web application developer with front-end and full-stack develo
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /><br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /><br>Firebase
-   </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /><br>Git
-   </td>
   </tr>
   <tr>
    <td align="center" width="96">
@@ -103,7 +101,7 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /><br>Firebase
    </td>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="git" /><br>Git
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="git" /><br>Git
    </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
