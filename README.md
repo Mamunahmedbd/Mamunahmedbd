@@ -69,28 +69,27 @@ I am a passionate web application developer with front-end and full-stack develo
    </td>
   </tr>
   </tr>
-    <tr>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Nginx" /><br>Nginx
     </td>
-    <tr>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" /><br>Nginx
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" /><br>AWS
     </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
+   </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" /><br>Jenkins
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /><br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" /><br>Terraform
     </td>
   </tr>
   <tr>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
-   </td>
+
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
    </td>
