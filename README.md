@@ -41,7 +41,7 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4" width="48" height="48" alt="Fastify" /><br>Fastify
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Sass" /><br>Next.js
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nestjs" /><br>Nest.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django
@@ -67,6 +67,8 @@ I am a passionate web application developer with front-end and full-stack develo
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /><br>Git
    </td>
+  </tr>
+  <tr>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
    </td>
