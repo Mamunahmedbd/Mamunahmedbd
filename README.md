@@ -132,4 +132,12 @@ I am a passionate web application developer with front-end and full-stack develo
 
 ## 🔥 Github stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mamunahmedbd&theme=dark)](https://git.io/streak-stats)
+[![Sujon Miah's current streak](https://streak-stats.demolab.com/?user=JuborajSujon&count_private=true&theme=dark)](#)
+
+[![Sujon's github stats](https://bad-apple-github-readme.vercel.app/api?username=mamunahmedbd&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mamunahmedbd&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&descAlign=100&descAlignY=100"/>
+</p>
