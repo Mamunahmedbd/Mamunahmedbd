@@ -12,19 +12,19 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" /><br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="javascript" /><br>JavaScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="javascript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="typescript" /><br>TypeScript
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="typescript" /><br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br>Python
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br>Python
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C#" /><br>C#
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" /><br>C#
     </td>
   </tr>
   <tr>
@@ -44,9 +44,30 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nestjs" /><br>Nest.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" /><br>Django
     </td>
 
+  </tr>
+    <tr>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySql" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /><br>Firebase
+   </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /><br>Git
+   </td>
+  </tr>
   </tr>
     <tr>
        <td align="center" width="96">
@@ -70,6 +91,9 @@ I am a passionate web application developer with front-end and full-stack develo
   </tr>
   <tr>
    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
+   </td>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
    </td>
       <td align="center" width="96">
@@ -79,7 +103,7 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /><br>Firebase
    </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /><br>Git
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="git" /><br>Git
    </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /><br>Postman
