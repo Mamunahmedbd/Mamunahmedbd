@@ -70,7 +70,7 @@ I am a passionate web application developer with front-end and full-stack develo
   </tr>
   </tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Nginx" /><br>Nginx
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Nginx" /><br>Linux
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" /><br>Nginx
@@ -102,7 +102,7 @@ I am a passionate web application developer with front-end and full-stack develo
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" /><br>Redux
    </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /><br>Css
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /><br>CSS
    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
