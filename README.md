@@ -132,7 +132,7 @@ I am a passionate web application developer with front-end and full-stack develo
 
 ## 🔥 Github stats :
 
-[![Mamun Ahmed current streak](https://streak-stats.demolab.com/?user=mamunahmedbd&count_private=true&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Mamun Ahmed current streak](https://streak-stats.demolab.com/?user=mamunahmedbd&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Mamun Ahmed github stats](https://bad-apple-github-readme.vercel.app/api?username=mamunahmedbd&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
