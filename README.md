@@ -2,7 +2,7 @@
 
 ## 🙍 About Me :
 
-I am a passionate web application developer with front-end and full-stack development experience over 4 years. Proficient in ReactJS, NextJS, ExpressJS, Fastify, MySQL, PostgreSQL, and MongoDB. Experienced in DevOps deploying applications on VPS using CI/CD pipelines and well-versed in Linux-based environments. Develop efficient, user-focused web solutions, and scalable web applications, constantly learning new technologies.
+I am a passionate web application developer with front-end and full-stack development experience over 6 years. Proficient in ReactJS, NextJS, ExpressJS, Fastify, MySQL, PostgreSQL, and MongoDB. Experienced in DevOps deploying applications on VPS using CI/CD pipelines and well-versed in Linux-based environments. Develop efficient, user-focused web solutions, and scalable web applications, constantly learning new technologies.
 
 ## 🛠️ Tools and Technologies :
 
